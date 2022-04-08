@@ -6,11 +6,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/0xMALVEE) 
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created a good number of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with NODE.js but some technologies I enjoy working with include PHP, MYSQL + MORE..
+I’m a Full Stack Web developer who is passionate about making error-free systems with 100% solid and compact code. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created a good number of software systems for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with NODE.js Back-End and Luas but some technologies I enjoy working with include PHP, MYSQL(Database), Others..
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
+✅ MERN Stack <br> 
+✅ JavaScript , React.js<br>
 ✅ Lua <br>
 ✅ PHP <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
