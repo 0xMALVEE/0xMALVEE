@@ -1,21 +1,28 @@
-## A1vee
-Welcome to my github profile! I'm Alvee currently 19 years old. Intrested learning more techonoglies in programing.
+## Hi, I'm M Alvee 👋
+<p>
+👑 I am Self Taught Web Developer (Not in any jobs) <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
-###🥳 Currently learning
-* I'm currently working towards learning more technologies.
+![Profile views](https://gpvc.arturio.dev/0xMALVEE) 
 
-###😈 Contact Information
-* ![](smalldiscord.png) **Discord** - A1vee#0088
-* ![](smallsteam.png) **Steam** - [id/a1vee](https://steamcommunity.com/id/a1vee)
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created a good number of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with NODE.js but some technologies I enjoy working with include PHP, MYSQL + MORE..
 
-### 📈 Statistics
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=glockcodes&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=glockcodes&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ Lua <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMALVEE&layout=compact)
+
+## ☕ Connect with me!
+ [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/0xMALVEE) 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMALVEE&show_icons=true) 
+
+## 📧 For Business Inquiries 
+✅  ► m.alvee0000@gmail.com 
