@@ -1,12 +1,12 @@
-## Glock
-Welcome to my github profile! I'm Glock, currently 16 years old, and always learning new things. I'm interested in scripting and programming.
+## A1vee
+Welcome to my github profile! I'm Alvee currently 19 years old. Intrested learning more techonoglies in programing.
 
-### 🧠 Currently learning
-* I'm currently working towards being fluent in lua, html, css, js, java, and maybe even a tiny bit of C.
+###🥳 Currently learning
+* I'm currently working towards learning more technologies.
 
-### 🌐 Contact Information
-* ![](smalldiscord.png) **Discord** - glock#0690
-* ![](smallsteam.png) **Steam** - [id/luaterrorist](https://steamcommunity.com/id/luaterrorist)
+###😈 Contact Information
+* ![](smalldiscord.png) **Discord** - A1vee#0088
+* ![](smallsteam.png) **Steam** - [id/a1vee](https://steamcommunity.com/id/a1vee)
 
 ### 📈 Statistics
 <table>
