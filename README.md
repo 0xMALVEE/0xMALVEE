@@ -23,4 +23,4 @@ Discord: A1vee#0088
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMALVEE&show_icons=true) 
 
 ## 📧 For Business Inquiries 
-✅  ► m.alvee0000@gmail.com 
+✅  ► m.alvee8141@gmail.com
